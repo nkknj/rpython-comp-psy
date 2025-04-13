@@ -1,1 +1,1 @@
-- [Open with Colab](https://colab.research.google.com/github/nkknj/rpython-comp-psy/blob/main/RPythonではじめる計算論的精神医学_5章_python移植.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/peaceiris/emoji-ime-dictionary/blob/master/generate.ipynb](https://colab.research.google.com/github/nkknj/rpython-comp-psy/blob/main/RPythonではじめる計算論的精神医学_5章_python移植.ipynb))
