@@ -1,0 +1,1 @@
+- [Open with Colab](https://colab.research.google.com/github/nkknj/rpython-comp-psy/blob/main/RPythonではじめる計算論的精神医学_5章_python移植.ipynb)
